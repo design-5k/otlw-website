@@ -1,0 +1,15 @@
+{
+  "name": "otlw-temp",
+  "version": "1.0.0",
+  "description": "projekt-outlaw temp website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subink",
+  "license": "ISC",
+  "dependencies": {
+    "mouse-speed": "^2.0.1",
+    "touch-velocity": "^0.0.4"
+  }
+}
